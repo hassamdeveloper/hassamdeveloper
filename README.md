@@ -65,7 +65,15 @@
  </div>
 
  # github
- <div align="center">
-   <img src-="![hassamdeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassamdeveloper&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)"  hieght="180em"/>
-<!-- [![hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassamdeveloper)](https://github.com/hassamdeveloper/github-readme-stats) -->
- </div>
+<p align="center">
+    <a href="https://github.com/hassamdeveloper">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hassamdeveloper&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hassamdeveloper&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
+ <p align="center">
+   <a href="https://github.com/hassamdeveloper"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassamdeveloper&theme=algolia&hide_border=true" /> 
+   </a>  
+ </p 
