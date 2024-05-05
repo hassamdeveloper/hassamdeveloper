@@ -22,7 +22,7 @@
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="100px" hieght="100px"/>
     </td>
      <td>
-      <img src="[https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)" width="100px" hieght="100px"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="100px" hieght="100px"/>
     </td>
   </tr>
 </table>
