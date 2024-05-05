@@ -66,5 +66,5 @@
 
  # github
  <div align="center">
-   ![hassamdeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassamdeveloper&theme=dark&show_icons=true)
+[![hassamdeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassamdeveloper)](https://github.com/anuraghazra/github-readme-stats)
  </div>
