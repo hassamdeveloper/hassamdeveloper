@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>
-      <img src="[https://www.vectorlogo.zone/logos/rsa/rsa-icon.svg](https://www.vectorlogo.zone/logos/rsa/rsa-ar21.svg)"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50px" hieght="20px"/>
     </td>
   </tr>
 </table>
