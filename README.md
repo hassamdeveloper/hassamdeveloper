@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other creators 
 - 🤔 I’m looking for help with other developers
 - 💬 Ask me about React and GitHub
-- 📫 How to reach me:[Email](hassamahamd310@gmail.com)
+- 📫 How to reach me:<a href="hassamahmad310@gmail.com"> Email</a>
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: pubg
 
@@ -26,3 +26,9 @@
     </td>
   </tr>
 </table>
+
+# Connect With Me:
+
+<div align="center"> 
+  
+</div>
