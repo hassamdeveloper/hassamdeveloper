@@ -40,7 +40,9 @@
      <td>
       <img src="https://raw.githubusercontent.com/hassamdeveloper/hassamdeveloper/c22676e0d9457537d5e0a9f661fcf109917c4edf/javascript-js-seeklogo.svg" width="100px" hieght="100px"/>
     </td>
-    
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" width="100px" hieght="100px" />
+    </td>
   </tr>
 </table>
 
