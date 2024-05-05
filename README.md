@@ -59,5 +59,7 @@
 # Connect With Me:
 
 <div align="center"> 
-  <a ></a>
+  <a href="LinkedIn" >
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="100px" hieght="100px" />
+  </a>
 </div>
