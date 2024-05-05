@@ -13,7 +13,43 @@
 
 # Skill Sets:
 
-<table align="center">
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/arhamansari11">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui&perline=4" /> 
+</div>
+</a>
+
+### Backend  
+<a href="https://github.com/arhamansari11">
+<div align="center">   
+      <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+    
+### Languages
+<a href="https://github.com/arhamansari11">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/arhamansari11">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
+<!--<table align="center">
   <tr>
     <td>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="100px" hieght="100px"/>
@@ -54,7 +90,7 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"  width="100px" hieght="100px" />
     </td>
   </tr>
-</table>
+</table> -->
 
 # Connect With Me:
 
