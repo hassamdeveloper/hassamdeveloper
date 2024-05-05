@@ -1,6 +1,6 @@
-### Hello 👋 i am Hassam
+### Hello 👋 I am Hassam
 
-# About me
+## About me
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning React
