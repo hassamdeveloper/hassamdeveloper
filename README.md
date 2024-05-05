@@ -1,6 +1,6 @@
 ### Hello 👋 i am Hassam
 
-#About me
+# About me
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning React
@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: pubg
 
-#Skill Sets:
+# Skill Sets:
 
 <table>
   <tr>
