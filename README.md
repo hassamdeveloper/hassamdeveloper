@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50px" hieght="20px"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="100px" hieght="100px"/>
     </td>
   </tr>
 </table>
