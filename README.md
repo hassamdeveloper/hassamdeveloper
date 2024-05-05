@@ -66,6 +66,6 @@
 
  # github
  <div align="center">
-   <img src-="[![hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassamdeveloper)](https://github.com/hassamdeveloper/github-readme-stats)"  hieght="180em"/>
+   <img src-="![hassamdeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassamdeveloper&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)"  hieght="180em"/>
 <!-- [![hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassamdeveloper)](https://github.com/hassamdeveloper/github-readme-stats) -->
  </div>
