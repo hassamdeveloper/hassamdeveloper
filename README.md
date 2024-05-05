@@ -99,6 +99,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40px" hieght="40px" /> </a>
 <a target="_blank" href="mailto:hassamahmad310@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"  width="40px" hieght="40px" /></a>   
 <a target="_blank" href="https://x.com/hassamj95099098?s=21"><img src="https://upload.vectorlogo.zone/logos/twitter/images/ea8e72ba-26a4-4bdf-bdd5-ca7d5e3b56d6.svg" width="40px" hieght="40px" /></a>
+       <a href="https://leetcode.com/profile/account/" >  <img https://upload.vectorlogo.zone/logos/leetcode/images/1f27e737-4847-49da-80b2-eb08dbd3467f.svg width="40px" hieght="40px" /></a>
  </div>
 
  # github
