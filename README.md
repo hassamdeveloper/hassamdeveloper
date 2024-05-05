@@ -19,7 +19,7 @@
 ### Frontend  
 <a href="https://github.com/arhamansari11">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react=4" /> 
 </div>
 </a>
 
@@ -34,7 +34,7 @@
 ### Languages
 <a href="https://github.com/arhamansari11">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,&perline=4" /> 
 </div>
 </a>
 
@@ -43,7 +43,7 @@
 ### Others
 <a href="https://github.com/arhamansari11">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,stackoverflow,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
