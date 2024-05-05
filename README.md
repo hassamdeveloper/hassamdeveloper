@@ -76,4 +76,41 @@
    <a href="https://github.com/hassamdeveloper"> 
      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassamdeveloper&theme=algolia&hide_border=true" /> 
    </a>  
- </p 
+ </p >
+ <br>
+ 
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/arhamansari11">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui&perline=4" /> 
+</div>
+</a>
+
+### Backend  
+<a href="https://github.com/arhamansari11">
+<div align="center">   
+      <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+    
+### Languages
+<a href="https://github.com/arhamansari11">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/arhamansari11">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
