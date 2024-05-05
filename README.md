@@ -24,7 +24,8 @@
      <td>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="100px" hieght="100px"/>
     </td>
-    <br/>
+  </tr>
+  <tr>
      <td>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="100px" hieght="100px"/>
     </td>
