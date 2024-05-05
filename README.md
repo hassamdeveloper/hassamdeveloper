@@ -24,6 +24,15 @@
      <td>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="100px" hieght="100px"/>
     </td>
+     <td>
+      <img src="  https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="100px" hieght="100px"/>
+    </td>
+  <td>
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="100px" hieght="100px"/>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="100px" hieght="100px"/>
+    </td>
   </tr>
 </table>
 
