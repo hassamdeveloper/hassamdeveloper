@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>
-      <img src=" />
+      <img src=" https://www.vectorlogo.zone/logos/rsa/rsa-icon.svg"/>
     </td>
   </tr>
 </table>
