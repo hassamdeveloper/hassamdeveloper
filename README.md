@@ -48,6 +48,12 @@
     </td>
    
   </tr>
+
+  <tr>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"  width="100px" hieght="100px" />
+    </td>
+  </tr>
 </table>
 
 # Connect With Me:
