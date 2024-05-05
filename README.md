@@ -59,7 +59,7 @@
 # Connect With Me:
 
 <div align="center"> 
-  <a href="[LinkedIn](https://www.linkedin.com/in/hassam-ahmad-5a21992a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" >
+  <a href="https://www.linkedin.com/in/hassam-ahmad-5a21992a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" >
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40px" hieght="40px" />
   </a>
 </div>
